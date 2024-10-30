@@ -1,0 +1,50 @@
+10/30/2024 1:17:00 PM: Opened SauceDemo website.
+10/30/2024 1:17:00 PM: Logged in as standard_user.
+10/30/2024 1:17:00 PM: Added item with ID 'add-to-cart-sauce-labs-backpack' to cart.
+10/30/2024 1:17:00 PM: Added item with ID 'add-to-cart-sauce-labs-bike-light' to cart.
+10/30/2024 1:17:00 PM: Added item with ID 'add-to-cart-sauce-labs-bolt-t-shirt' to cart.
+10/30/2024 1:17:01 PM: Removed Backpack from cart.
+10/30/2024 1:17:01 PM: Proceeded to checkout.
+10/30/2024 1:17:01 PM: Entered user information and continued.
+10/30/2024 1:17:01 PM: Calculated total price: $25.98
+10/30/2024 1:17:01 PM: Displayed total price with tax: $28.06
+10/30/2024 1:17:01 PM: Closed browser and disposed driver.
+10/30/2024 1:18:34 PM: Opened SauceDemo website.
+10/30/2024 1:18:35 PM: Logged in as standard_user.
+10/30/2024 1:18:35 PM: Added item with ID 'add-to-cart-sauce-labs-backpack' to cart.
+10/30/2024 1:18:35 PM: Added item with ID 'add-to-cart-sauce-labs-bike-light' to cart.
+10/30/2024 1:18:35 PM: Added item with ID 'add-to-cart-sauce-labs-bolt-t-shirt' to cart.
+10/30/2024 1:18:35 PM: Removed Backpack from cart.
+10/30/2024 1:18:35 PM: Proceeded to checkout.
+10/30/2024 1:18:35 PM: Entered user information and continued.
+10/30/2024 1:18:35 PM: Calculated total price: $25.98
+10/30/2024 1:18:35 PM: Displayed total price with tax: $28.06
+10/30/2024 1:18:36 PM: Order completed.
+10/30/2024 1:18:36 PM: Verified order confirmation message.
+10/30/2024 1:18:36 PM: Closed browser and disposed driver.
+10/30/2024 1:19:43 PM: Opened SauceDemo website.
+10/30/2024 1:19:44 PM: Logged in as standard_user.
+10/30/2024 1:19:44 PM: Added item with ID 'add-to-cart-sauce-labs-backpack' to cart.
+10/30/2024 1:19:44 PM: Added item with ID 'add-to-cart-sauce-labs-bike-light' to cart.
+10/30/2024 1:19:44 PM: Added item with ID 'add-to-cart-sauce-labs-bolt-t-shirt' to cart.
+10/30/2024 1:19:44 PM: Removed Backpack from cart.
+10/30/2024 1:19:44 PM: Proceeded to checkout.
+10/30/2024 1:19:45 PM: Entered user information and continued.
+10/30/2024 1:19:45 PM: Calculated total price: $25.98
+10/30/2024 1:19:45 PM: Displayed total price with tax: $28.06
+10/30/2024 1:19:45 PM: Order completed.
+10/30/2024 1:19:45 PM: Verified order confirmation message.
+10/30/2024 1:19:46 PM: Closed browser and disposed driver.
+10/30/2024 1:23:20 PM: Opened SauceDemo website.
+10/30/2024 1:23:21 PM: Logged in as standard_user.
+10/30/2024 1:23:21 PM: Added item with ID 'add-to-cart-sauce-labs-backpack' to cart.
+10/30/2024 1:23:21 PM: Added item with ID 'add-to-cart-sauce-labs-bike-light' to cart.
+10/30/2024 1:23:21 PM: Added item with ID 'add-to-cart-sauce-labs-bolt-t-shirt' to cart.
+10/30/2024 1:23:21 PM: Removed Backpack from cart.
+10/30/2024 1:23:22 PM: Proceeded to checkout.
+10/30/2024 1:23:22 PM: Entered user information and continued.
+10/30/2024 1:23:22 PM: Calculated total price: $25.98
+10/30/2024 1:23:22 PM: Displayed total price with tax: $28.06
+10/30/2024 1:23:22 PM: Order completed.
+10/30/2024 1:23:22 PM: Verified order confirmation message.
+10/30/2024 1:23:23 PM: Closed browser and disposed driver.
